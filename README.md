@@ -4,17 +4,17 @@
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshix&label=Profile%20views&color=0e75b6&style=flat" alt="gshix" /> </p>
 
-- 🔭 I’m currently enjoying **Web Development**
+- 🔭 I’m currently enjoying: **Web Development**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning: **MERN**
 
-- 👨‍💻 All of my projects are available at [https://gshix.github.io/DambarPortfolio/projects.html](https://gshix.github.io/DambarPortfolio/projects.html)
+- 👨‍💻 All of my projects are available at: [https://gshix.github.io/DambarPortfolio/projects.html](https://gshix.github.io/DambarPortfolio/projects.html)
 
-- 📫 How to reach me **programmer.gshi28@gmail.com**
+- 📫 How to reach me: **programmer.gshi28@gmail.com**
 
-- 📄 Know about my experiences [https://gshix.github.io/DambarPortfolio/DAMBAR-SING-GHARTI-CV.pdf](https://gshix.github.io/DambarPortfolio/DAMBAR-SING-GHARTI-CV.pdf)
+- 📄 Know about my experiences: [https://gshix.github.io/DambarPortfolio/DAMBAR-SING-GHARTI-CV.pdf](https://gshix.github.io/DambarPortfolio/DAMBAR-SING-GHARTI-CV.pdf)
 
-- ⚡ Fun fact **I am Introvert**
+- ⚡ Fun fact: **I am Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
