@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw05j04G0PDSfaMoX6szGcKG&ust=1696955402778000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDc7dGx6YEDFQAAAAAdAAAAABAF))
+![MasterHead] (https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, it's me GShiX</h1>
 <h3 align="center">A passionate Coder</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
