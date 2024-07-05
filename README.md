@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently enjoying: **Web Development**
 
-- 🌱 I’m learning: **MERN**
+- 🌱 I’m learning: **React with Java**
 
-- 👨‍💻 All of my projects are available at: [https://gshix.github.io/DambarPortfolio/projects.html]()
+- 👨‍💻 All of my projects are available at: [Website not available]()
 
 - 📫 How to reach me: **programmer.gshi28@gmail.com**
 
-- 📄 Know about my experiences: [https://gshix.github.io/DambarPortfolio/DAMBAR-SING-GHARTI-CV.pdf]()
+- 📄 Know about my experiences: [CV is under development]()
 
 - ⚡ Fun fact: **I am Introvert**
 
