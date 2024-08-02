@@ -28,6 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gshix&show_icons=true&locale=en" alt="gshix" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gshix&" alt="gshix" /></p>
-
-<h1>My Dev Card</h1>
-<a href="https://app.daily.dev/dambarsing"><img src="https://api.daily.dev/devcards/v2/GKmHmq7PINpxx9sysFl3H.png?type=default&r=pw8" width="356" alt="GShiX- Dambar Sing's Dev Card"/></a>
